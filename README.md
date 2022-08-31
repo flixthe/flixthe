@@ -12,3 +12,4 @@
   <a href="https://discord.gg/wBqe8VTtfr">📌 Angel Code Share</a>
   </h3>
  <br />
+ <img src="https://discord.c99.nl/widget/theme-2/983759601268826193.png" />
