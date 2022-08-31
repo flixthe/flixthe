@@ -10,3 +10,5 @@
   📌 Discord account: flix#8000 <br />
   <a href="https://discord.gg/wBqe8VTtfr">📌 Angel Code Share</a>
   </h3>
+ <br />
+ <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,javascript,typescript,react,html,css,figma,graphql,nodejs,vscode,discord&theme=dark" />
