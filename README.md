@@ -4,10 +4,9 @@
   <img alt="os" src="https://img.shields.io/badge/os-Arch Linux-blueviolet" />
   <a href="https://discord.gg/wBqe8VTtfr"><img alt="Discord" src="https://img.shields.io/badge/flix%238000-7289DA?style=flat&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/wBqe8VTtfr">
   <img src="https://komarev.com/ghpvc/?username=flixthe"/>
-  </a>
 <h4>I am a discord bot developer. I am learning front-end.</b></h4>
 <h3>
   📌 Discord account: flix#8000
+  📌 Angel Code Share: <a href="https://discord.gg/wBqe8VTtfr">https://discord.gg/wBqe8VTtfr</a>
   </h3>
