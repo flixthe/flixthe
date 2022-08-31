@@ -9,5 +9,5 @@
   </a>
 <h4>I am a discord bot developer. I am learning front-end.</b></h4>
 <h3>
-  <img alt="os" src="https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white" />Discord account: flix#8000
+  📌 Discord account: flix#8000
   </h3>
