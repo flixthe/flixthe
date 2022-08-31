@@ -7,6 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=flixthe"/>
 <h4>I am a discord bot developer. I am learning front-end.</b></h4>
 <h3>
-  📌 Discord account: flix#8000
-  📌 Angel Code Share: <a href="https://discord.gg/wBqe8VTtfr">https://discord.gg/wBqe8VTtfr</a>
+  📌 Discord account: flix#8000 <br />
+  📌 Angel Code Share: https://discord.gg/wBqe8VTtfr
   </h3>
