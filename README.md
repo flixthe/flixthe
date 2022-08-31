@@ -3,7 +3,7 @@
   
   <img alt="os" src="https://img.shields.io/badge/os-Arch Linux-blueviolet" />
   <a href="https://discord.gg/wBqe8VTtfr"><img alt="Discord" src="https://img.shields.io/badge/flix%238000-7289DA?style=flat&logo=discord&logoColor=white"/>
-  </a><br />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=flixthe"/> <br />
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,html,css,vscode,discord&theme=dark" />
 <h4>I am a discord bot developer. I am learning front-end.</b></h4>
