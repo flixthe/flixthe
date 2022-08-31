@@ -8,5 +8,5 @@
 <h4>I am a discord bot developer. I am learning front-end.</b></h4>
 <h3>
   📌 Discord account: flix#8000 <br />
-  📌 Angel Code Share: https://discord.gg/wBqe8VTtfr
+  <a href="https://discord.gg/wBqe8VTtfr">📌 Angel Code Share:</a> https://discord.gg/wBqe8VTtfr
   </h3>
