@@ -11,4 +11,4 @@
   <a href="https://discord.gg/wBqe8VTtfr">📌 Angel Code Share</a>
   </h3>
  <br />
- <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,vscode,discord&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=javascript,react,html,css,nodejs,vscode,discord&theme=dark" />
